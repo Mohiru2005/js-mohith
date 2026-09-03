@@ -29,6 +29,34 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 //------------------------------------------- Operations ---------------------------------------------------//
 
+// We have many arthimetic operations such as 
+
+//console.log(1+1);
+//console.log(1-1);
+//console.log(1*1);
+//console.log(2**3);
+//console.log(2/3);
+//console.log(2%3);
+
+// String concatination
+
+/*
+let str1 = 'mohith'
+let str2 = ' senpai'
+
+let str3 = str1 + str2
+
+console.log(str3);
+*/
+
+console.log("1"+2);  //joins a string with number
+console.log(1+"2");  //joins a number with string
+console.log("1"+2+2); //if the first one is string entire thing is considered as string
+console.log(1+2+"2"); //if the first one not a string it is treated a number and we are able to do operations on it
+
+
+
+
 
 
 
