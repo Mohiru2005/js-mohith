@@ -17,4 +17,4 @@ console.log(rank);
 // If the variable is assigned with null it will return as 0 as well 
 // If the value is undefined it will also return NaN
 // If the value is a boolean if its true it will return 1 or if its false it will return 0
-// If the value is a pure String it will also return NaN
+// If the value is a pure String it will also return Not a Number
