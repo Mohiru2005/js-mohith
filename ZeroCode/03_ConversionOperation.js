@@ -49,10 +49,18 @@ let str3 = str1 + str2
 console.log(str3);
 */
 
+/*
 console.log("1"+2);  //joins a string with number
 console.log(1+"2");  //joins a number with string
 console.log("1"+2+2); //if the first one is string entire thing is considered as string
 console.log(1+2+"2"); //if the first one not a string it is treated a number and we are able to do operations on it
+*/
+
+// Incremental
+let Counter = 100
+Counter ++;
+console.log(Counter);
+
 
 
 
