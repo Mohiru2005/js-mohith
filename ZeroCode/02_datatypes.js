@@ -33,6 +33,7 @@ console.log(typeof undefined);  //undefined
 
 //console.log(id===anotherId);  //Symbol represents a unique value
 
+//#--------------------------------------------------------------------------------------------------------------------------------#
 
 //Non Primitive data type (call by reference orginal data will be accessed)
 // Array , Objects , Functions 
@@ -56,3 +57,9 @@ const myFucntion=myfunc()
     console.log("hello world");
     
 }
+
+
+// Memories
+// Stack (primitive) and Heap memory (Non primitive)
+
+
